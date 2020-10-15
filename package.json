@@ -108,7 +108,7 @@
     "redux-thunk": "^2.1.0",
     "reselect": "2.5.3",
     "rimraf": "^2.5.4",
-    "sinon": "2.0.0-pre",
+    "sinon": "9.2.0",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
     "uuid-js": "^0.7.5",
