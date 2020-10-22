@@ -70,7 +70,7 @@
     "karma-chrome-launcher": "^3.1.0",
     "karma-cli": "^2.0.0",
     "karma-coverage": "^2.0.3",
-    "karma-firefox-launcher": "^1.0.0",
+    "karma-firefox-launcher": "^2.0.0",
     "karma-ie-launcher": "^1.0.0",
     "karma-jasmine": "^4.0.1",
     "karma-jasmine-matchers": "^4.0.2",
