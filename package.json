@@ -83,7 +83,7 @@
     "less": "^3.12.2",
     "less-loader": "^5.0.0",
     "lodash": "^4.15.0",
-    "mocha": "8.2.0",
+    "mocha": "8.2.1",
     "node-libs-browser": "^2.2.1",
     "phantomjs-function-bind-polyfill": "^1.0.0",
     "phantomjs-prebuilt": "^2.1.3",
