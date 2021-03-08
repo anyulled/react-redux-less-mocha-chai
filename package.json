@@ -44,7 +44,7 @@
     "chai": "4.3.3",
     "chai-enzyme": "0.8.0",
     "classnames": "^2.2.1",
-    "copy-webpack-plugin": "^4.6.0",
+    "copy-webpack-plugin": "^8.0.0",
     "css-loader": "^5.1.1",
     "directory-named-webpack-plugin": "^4.0.1",
     "enzyme": "^3.11.0",
